@@ -60,3 +60,8 @@ An ocean-inspired, walkable room built around procedurally generated assets. The
 2. Exported the geometry (FBX) and simulation (Alembic) to Unreal
 3. Set up the `M_glass` material using the exported vertex color
 4. Assembled and lit the room in Unreal, with a walkable character
+
+# Demo
+
+https://github.com/user-attachments/assets/9f837e96-298a-4696-bb07-aeff9db522e9
+
